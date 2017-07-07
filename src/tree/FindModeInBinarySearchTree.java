@@ -52,8 +52,6 @@ public class FindModeInBinarySearchTree {
     			curnode = tmp.right;
     		}
     	}
-    	//System.out.println(curlen);
-    	//System.out.println(curval);
     	if(curval!=maxval) {
     		if(curlen>maxlen) {
     			resList.clear();
