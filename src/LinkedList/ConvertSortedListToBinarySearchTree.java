@@ -1,5 +1,4 @@
 package LinkedList;
-import java.util.List;
 
 import tree.TreeNode;
 public class ConvertSortedListToBinarySearchTree {
