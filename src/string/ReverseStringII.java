@@ -5,7 +5,6 @@ public class ReverseStringII {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String s = "abcdefg";
-		char[] c = s.toCharArray();
 		ReverseStringII rs = new ReverseStringII();
 		System.out.println(rs.reverseStr(s, 3));
 	}
